@@ -1,0 +1,6 @@
+datasets/sar
+datasets/satellite117
+results/
+checkpoints
+*.sh
+assets/
